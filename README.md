@@ -20,9 +20,9 @@ Top-level of steps taken in notebook Main.ipynb:
 13. Results
 14. Prepare Submission File
 
-Most recent Results:
-5-seed Raw CV log_loss: 0.015840346076463094
-Adj CV log_loss: 0.014598703743636634
-Raw roc_score: 0.7908
-Adj roc_score: 0.8104
-Leaderboard: 0.01848
+Most recent Results:  
+- 5-seed Raw CV log_loss: 0.015840346076463094
+- Adj CV log_loss: 0.014598703743636634
+- Raw roc_score: 0.7908
+- Adj roc_score: 0.8104
+- Leaderboard: 0.01848
