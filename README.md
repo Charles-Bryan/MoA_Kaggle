@@ -3,7 +3,7 @@ Data pipeline for Kaggle's Mechanisms of Action (MoAs) Competition
 
 Python notebook used to work with Kaggle's MoA dataset and predict the MAchanisms of Action for the various drugs.
 
-Top-level of steps taken in Main:
+Top-level of steps taken in notebook Main.ipynb:
 
 1. Environment Setup
 2. Ensure Reproducibility
